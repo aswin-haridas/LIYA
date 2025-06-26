@@ -1,0 +1,12 @@
+[
+  {
+    "input": "hi",
+    "response": "hello",
+    "feedbackRating": 1.0
+  },
+  {
+    "input": "how are you",
+    "response": "i am fine",
+    "feedbackRating": 0.5
+  }
+]
